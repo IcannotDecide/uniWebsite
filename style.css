@@ -10,8 +10,16 @@ img {
 table {
     border-collapse: collapse;
 }
+caption {
+    text-align: left;
+}
 
 th, td {
     border: solid 1px black;
     padding: 10px;
+}
+
+.table-container {
+    max-width: 100%;
+    overflow-x: auto;
 }
