@@ -6,6 +6,7 @@
 
 :root {
     --header-text-color: #F9FAFA;
+    --striped-bg-color: #e5e7eb
 }
 
 .header {
@@ -44,8 +45,22 @@ a {
     margin-left: auto;
 }
 
-article {
-    padding: 10px;
+/* article {
+
+} */
+
+.learning-journal div, #intro {
+    padding: 20px 5%;
+}
+
+.colorBg {
+    background-color: var(--striped-bg-color);
+    padding: 20px
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
 }
 
 img {
