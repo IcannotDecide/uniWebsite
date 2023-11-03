@@ -8,26 +8,20 @@
     --header-text-color: #F9FAFA;
 }
 
-.header-wrapper {
+.header {
     display: flex;
     flex-direction: column;
     background-color: #1f2937;
-    padding: 10px 15%;
+    padding: 30px 15%;
     color: var(--header-text-color);
 }
 
-.header-wrapper a {
+.header a {
     color: var(--header-text-color);
 }
 
-.header-wrapper li:nth-child(1) {
+.header li:nth-child(1) {
     font-size: 24px;
-}
-
-.header {
-    display: flex;
-    padding: 20px 0;
-    margin-bottom: 80px;
 }
 
 .header-list {
