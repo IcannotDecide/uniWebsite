@@ -22,6 +22,7 @@
 
 .header a {
     color: var(--header-text-color);
+    text-decoration: none;
 }
 
 .header li:nth-child(1) {
@@ -37,10 +38,6 @@
 
 li {
     list-style-type: none;
-}
-
-a {
-    text-decoration: none;
 }
 
 .push {
@@ -71,6 +68,7 @@ figure {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 
 img {
@@ -82,8 +80,8 @@ table {
     border-collapse: collapse;
 }
 
-caption {
-    text-align: left;
+figcaption {
+    
 }
 
 th,
