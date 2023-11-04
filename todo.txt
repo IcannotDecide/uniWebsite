@@ -1,3 +1,2 @@
 Create a section before the weekly posts that talks about freecodecamp and the odin project
 
-Figure out how to deal with the padding issue with article div css selector
