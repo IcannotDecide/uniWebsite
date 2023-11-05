@@ -1,2 +1,3 @@
 Create a section before the weekly posts that talks about freecodecamp and the odin project
 
+Create a striped pattern on the table that will make it easier to read and add a different background colour for events on the table
