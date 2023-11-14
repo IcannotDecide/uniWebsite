@@ -1,4 +1,1 @@
-Create a striped pattern on the table that will make it easier to read and add a different background colour for events on the table
-
-What to write in the weeks when I update something from that week.
-For example I updated the table in week 3 from a schedule for my web development to my whole uni timetable. What do I write in week 3 now?
+Create the contact me page
