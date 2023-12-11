@@ -49,6 +49,10 @@ article {
     line-height: 1.6;
 }
 
+.imgDiv {
+    padding: 20px 0;
+}
+
 .learning-journal div,
 #intro {
     padding: 20px 10%;
@@ -57,7 +61,6 @@ article {
 
 .colorBg {
     background-color: var(--striped-bg-color);
-    padding: 20px
 }
 
 h2 {
@@ -69,7 +72,7 @@ figure {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 20px 0;
 }
 
 img {
@@ -79,10 +82,6 @@ img {
 
 table {
     border-collapse: collapse;
-}
-
-figcaption {
-    
 }
 
 th,
@@ -96,3 +95,9 @@ td {
     max-width: 100%;
     overflow-x: auto;
 }
+
+/* @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  } */
