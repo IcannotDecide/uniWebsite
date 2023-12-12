@@ -49,11 +49,7 @@ article {
     line-height: 1.6;
 }
 
-.imgDiv {
-    padding: 20px 0;
-}
-
-.learning-journal div,
+.learning-journal > div,
 #intro {
     padding: 20px 10%;
     color: var(--text-color)
@@ -61,6 +57,7 @@ article {
 
 .colorBg {
     background-color: var(--striped-bg-color);
+    padding: 20px
 }
 
 h2 {
@@ -95,9 +92,3 @@ td {
     max-width: 100%;
     overflow-x: auto;
 }
-
-/* @media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-  } */
