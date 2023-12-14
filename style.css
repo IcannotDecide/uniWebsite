@@ -92,3 +92,27 @@ td {
     max-width: 100%;
     overflow-x: auto;
 }
+
+.form {
+    display: flex;
+    padding: 0 5%;
+}
+
+form {
+    display: grid;
+    row-gap: 10px;
+    width: 100vw;
+    grid-template-columns: minmax(auto, 500px);
+}
+
+form > input {
+    height: 30px;
+}
+
+.padding{
+    padding: 30px 5%;
+}
+
+code {
+    font-family: monospace;
+}
