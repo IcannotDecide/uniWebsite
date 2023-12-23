@@ -116,3 +116,9 @@ form > input {
 code {
     font-family: monospace;
 }
+
+#contents {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 10%;
+}
