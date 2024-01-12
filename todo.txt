@@ -1,1 +1,0 @@
-Fix the padding on mobile devices for the images in week 4
